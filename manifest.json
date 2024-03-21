@@ -1,0 +1,9 @@
+﻿{
+    "Name": "TestMod",
+    "Author": "ChaosEnergy",
+    "Version": "1.0.0",
+    "Description": "Test mod.",
+    "UniqueID": "ChaosEnergy.TestMod",
+    "EntryDll": "TestMod.dll",
+    "MinimumApiVersion": "4.0"
+}
